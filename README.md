@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManjushreeRameshkumar
+- 👋 Hi, I’m Manjushree
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently pursuing Pre-Final year at Saveetha Engineering College 
 - 💞️ I’m looking to collaborate on ...
